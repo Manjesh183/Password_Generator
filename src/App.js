@@ -98,11 +98,11 @@ const App = () => {
 		<div style={containerStyle}>
 			<h1
 				style={{
-					color: "green",
+					color: "blue",
 					textAlign: "center",
 				}}
 			>
-				Geeksforgeeks
+				Welcome to my
 			</h1>
 			<h3 style={{ textAlign: "center" }}>Random Password Generator</h3>
 			<div style={inputContainerStyle}>
