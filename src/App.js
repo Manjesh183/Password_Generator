@@ -102,7 +102,7 @@ const App = () => {
 					textAlign: "center",
 				}}
 			>
-				Welcome to my
+				Welcome to My
 			</h1>
 			<h3 style={{ textAlign: "center" }}>Random Password Generator</h3>
 			<div style={inputContainerStyle}>
